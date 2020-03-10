@@ -1,13 +1,13 @@
-group, variable, value
-Janvier, v1, 1
-Fevrier, v1, 3
-Mars, v1, 5
-Avril, v1, 1
-Mai, v2, 1
-Juin, v2, 1
-Juillet, v2, 5
-Aout, v2, 5
-Septembre, v2, 3
-Octobre, v2, 3
-Novembre, v3, 1
-Decembre, v3, 3
+group,variable,value
+Janvier,v1,1
+Fevrier,v1,3
+Mars,v1,5
+Avril,v1,1
+Mai,v2,1
+Juin,v2,1
+Juillet,v2,5
+Aout,v2,5
+Septembre,v2,3
+Octobre,v2,3
+Novembre,v3,1
+Decembre,v3,3
